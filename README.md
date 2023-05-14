@@ -18,28 +18,10 @@
   <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="c" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="CPP" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
       <a href="https://www.javascript.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescript.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/">
@@ -97,19 +79,7 @@
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJs" />
       </a>
       <br>ExpressJs
-    </td>
-    <td align="center" width="96">
-      <a href="https://nextjs.com/" >
-        <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="48" height="48" alt="NextJs" />
-      </a>
-      <br>NextJs
-    </td>
-    <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/en/2.0.x/" >
-        <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
+  </td>
     <td align="center" width="96">
       <a href="https://mongoDB.com/" >
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongoDB" />
@@ -141,30 +111,6 @@
         <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
-     <td align="center"  width="96">
-      <a href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/powershell/">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="48" height="48" alt="bash" />
-      </a>
-      <br>Bash
-    </td>
-     <td align="center" width="96">
-      <a href="https://ubuntu.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
     </td>
   </tr>
 </table>
