@@ -9,7 +9,7 @@
 - 🧑 &nbsp; I'm a Programmer and Developer
 - 💻 &nbsp; Love to explore new tech
 - 💻 &nbsp; Software Engineer From IET
-- 💬 &nbsp; Ask me about **React, JavaScript, Node.Js**
+- 💬 &nbsp; Ask me about **React, JavaScript, Node.Js , Python **
 
 <br/>
 
