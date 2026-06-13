@@ -88,7 +88,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" width="48" height="48" alt="mysql" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1280px-MySQL_logo.svg.png" width="48" height="48" alt="mysql" />
       </a>
       <br>MySql
     </td>
